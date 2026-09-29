@@ -1,4 +1,4 @@
-# Hi, I'm Abdul 👋
+# Hi, I'm Abdul 
 
 **CS @ UMN Twin Cities (May 2027) · SWE Intern @ Veranex**
 
@@ -8,10 +8,10 @@ I build things from scratch — from cycle-accurate emulators to inference engin
 
 ## What I'm about
 
-- 🎓 Fourth-year Computer Science student at the University of Minnesota Twin Cities, graduating **May 2027**
-- 💻 SWE Intern at **Veranex** (MedTech innovation CRO) — embedded systems, IoT edge devices, internal tooling
-- 🧑‍🏫 TA for **CSCI 1113** (intro C++, 170+ students) and backend dev in the UMN App Developers Club
-- 🎯 Currently looking for **new grad SWE roles (2027)** — small-to-mid-sized teams, real ownership, systems-heavy work
+- Fourth-year Computer Science student at the University of Minnesota Twin Cities, graduating **May 2027**
+- SWE Intern at **Veranex** (MedTech innovation CRO) — embedded systems, IoT edge devices, internal tooling
+- TA for **CSCI 1113** (intro C++, 170+ students) and backend dev in the UMN App Developers Club
+- Currently looking for **new grad roles (2027)** — real ownership, systems-heavy work
 
 ---
 
@@ -19,9 +19,7 @@ I build things from scratch — from cycle-accurate emulators to inference engin
 
 | Project | What it is | Stack |
 |---|---|---|
-| Game Boy (DMG) emulator | Cycle-accurate emulator validated against Blargg & Mooneye test ROMs | C++, SDL2 |
-| LLM inference engine | From-scratch inference server with PagedAttention, continuous batching, and prefix caching | Python, C++ |
-| NextRound | Job-search system with immutable job snapshots, a decision log, and Playwright automation | React, TypeScript, FastAPI, PostgreSQL |
+|NextRound | Job-search system with immutable job snapshots, a decision log, and Playwright automation | React, TypeScript, FastAPI, PostgreSQL |
 | Portfolio v2 | Personal site — scroll animations, full theming via CSS variables | Next.js 15, TypeScript, Tailwind v4, Framer Motion |
 
 ---
